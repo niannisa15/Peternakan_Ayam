@@ -1,0 +1,13 @@
+[10-Jul-2021 04:19:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/tkacom/public_html/annisa/Job7/fungsi/functions.php on line 4
+[10-Jul-2021 04:19:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/tkacom/public_html/annisa/Job7/fungsi/functions.php on line 4
+[10-Jul-2021 04:19:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tkacom/public_html/annisa/Job7/index.php on line 11
+[10-Jul-2021 04:19:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tkacom/public_html/annisa/Job7/index.php on line 12
+[10-Jul-2021 04:19:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/tkacom/public_html/annisa/Job7/fungsi/functions.php on line 4
+[10-Jul-2021 04:19:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/tkacom/public_html/annisa/Job7/fungsi/functions.php on line 4
+[10-Jul-2021 04:19:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tkacom/public_html/annisa/Job7/index.php on line 11
+[10-Jul-2021 04:19:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tkacom/public_html/annisa/Job7/index.php on line 12
+[10-Jul-2021 04:19:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/tkacom/public_html/annisa/Job7/fungsi/functions.php on line 4
+[10-Jul-2021 04:21:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/tkacom/public_html/annisa/Job7/fungsi/functions.php on line 4
+[10-Jul-2021 04:21:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tkacom/public_html/annisa/Job7/index.php on line 11
+[10-Jul-2021 04:21:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tkacom/public_html/annisa/Job7/index.php on line 12
+[10-Jul-2021 04:21:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/tkacom/public_html/annisa/Job7/fungsi/functions.php on line 4

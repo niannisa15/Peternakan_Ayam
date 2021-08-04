@@ -1,0 +1,8 @@
+[12-Jul-2021 01:55:17 UTC] PHP Warning:  move_uploaded_file(img/60eba105c1567.jpg): failed to open stream: No such file or directory in /home/tkacom/public_html/annisa/Job7/fungsi/functions.php on line 144
+[12-Jul-2021 01:55:17 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3dbNve' to 'img/60eba105c1567.jpg' in /home/tkacom/public_html/annisa/Job7/fungsi/functions.php on line 144
+[17-Jul-2021 02:52:36 UTC] PHP Warning:  move_uploaded_file(img/60f245f41289b.jpg): failed to open stream: No such file or directory in /home/tkacom/public_html/annisa/Job7/fungsi/functions.php on line 144
+[17-Jul-2021 02:52:36 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcy5KeM' to 'img/60f245f41289b.jpg' in /home/tkacom/public_html/annisa/Job7/fungsi/functions.php on line 144
+[17-Jul-2021 02:53:33 UTC] PHP Warning:  move_uploaded_file(img/60f2462d59ffc.jpg): failed to open stream: No such file or directory in /home/tkacom/public_html/annisa/Job7/fungsi/functions.php on line 144
+[17-Jul-2021 02:53:33 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppuImCk' to 'img/60f2462d59ffc.jpg' in /home/tkacom/public_html/annisa/Job7/fungsi/functions.php on line 144
+[22-Jul-2021 13:45:42 UTC] PHP Warning:  move_uploaded_file(img/60f976868342d.jpeg): failed to open stream: No such file or directory in /home/tkacom/public_html/annisa/Job7/fungsi/functions.php on line 144
+[22-Jul-2021 13:45:42 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvYkgNs' to 'img/60f976868342d.jpeg' in /home/tkacom/public_html/annisa/Job7/fungsi/functions.php on line 144
